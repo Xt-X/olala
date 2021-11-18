@@ -2,4 +2,5 @@ mi
 creating a new branch is quick
 
 
-mii  t2
+
+mii  t1 c
